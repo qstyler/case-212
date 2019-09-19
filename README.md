@@ -685,3 +685,4 @@
 | Pletnev Nikolay                | DevOps Itransition                                 |
 | Пушкарев Андрей                | Fullstack Development                              |
 | Исмаил Алекперов               | фрилансер, Екатеринбург                            |
+| Бодня Константин Александрович | Performance engineer, KLM, Amstelveen, Netherlands |
